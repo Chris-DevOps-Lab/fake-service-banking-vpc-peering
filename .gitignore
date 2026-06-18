@@ -13,6 +13,17 @@ override.tf.json
 # SSH Keys
 *.pem
 *.ppk
+*.key
+
+# Environment Files
+.env
+.env.*
 
 # OS files
 .DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
