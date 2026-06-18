@@ -72,8 +72,10 @@ This project was built to demonstrate practical cloud infrastructure engineering
 
 ---
 ## Architecture Diagram
+<img width="1536" height="1024" alt="ChatGPT Image Jun 18, 2026, 03_00_25 PM" src="https://github.com/user-attachments/assets/b440bb9e-d4ec-4e40-900f-9330ccd491ef" />
 
 ## AWS Services Used
+<img width="1536" height="1024" alt="ChatGPT Image Jun 18, 2026, 03_00_25 PM" src="https://github.com/user-attachments/assets/89ebedac-d03f-481d-a410-86c85bae4cb0" />
 
 * Amazon VPC
 * VPC Peering
