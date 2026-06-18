@@ -71,6 +71,7 @@ This project was built to demonstrate practical cloud infrastructure engineering
 ```
 
 ---
+## Architecture Diagram
 
 ## AWS Services Used
 
